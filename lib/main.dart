@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/model/user.dart';
 
 void main() {
-  runApp(const MyApp());
+  User user = User(2, 'Dung');
+  // User user = User(_name: 'Dung', id : 2);
+  // print(user.toString());
+  user.funtionPeoPle();
+  user.funtionCity();
+  //runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
