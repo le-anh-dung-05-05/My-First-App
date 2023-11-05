@@ -5,8 +5,9 @@ void main() {
   User user = User(2, 'Dung');
   // User user = User(_name: 'Dung', id : 2);
   // print(user.toString());
-  user.funtionPeoPle();
-  user.funtionCity();
+  // user.funtionPeoPle();
+  // user.funtionCity();
+  user.loginfo();
   //runApp(const MyApp());
 }
 

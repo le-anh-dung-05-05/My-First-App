@@ -1,6 +1,6 @@
-abstract class People {
+mixin class People {
   //Hàm trừu tượng
-  void funtionPeoPle();
+  //void funtionPeoPle();
   //Hàm bình thường
   void funtionPeople1() {
     print('non-abstarct');
