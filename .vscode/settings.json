@@ -1,4 +1,5 @@
 {
     "java.configuration.updateBuildConfiguration": "interactive",
-    "cmake.sourceDirectory": "E:/Flutter/VsCode/flutter_application_1/linux"
+    "cmake.sourceDirectory": "E:/Flutter/VsCode/flutter_application_1/linux",
+    "java.compile.nullAnalysis.mode": "automatic"
 }
